@@ -1,0 +1,24 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc",
+    "start": "npm run build && node dist/$npm_config_pattern"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metehankurucu/design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metehankurucu/design-patterns/issues"
+  },
+  "homepage": "https://github.com/metehankurucu/design-patterns#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
