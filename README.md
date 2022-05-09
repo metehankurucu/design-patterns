@@ -4,10 +4,29 @@
 
 - **Creational Patterns**
   - [Singleton](/singleton)
+  - Factory Method
+  - Abstract Factory
+  - Builder
+  - Prototype
 - **Structural Patterns**
+  - Adapter
+  - Bridge
+  - Composite
+  - Decorator
+  - Facade
+  - Flyweight
+  - Proxy
 - **Behavioral Patterns**
   - [Strategy](/strategy)
   - [Template Method](/template-method)
+  - Command
+  - Iterator
+  - Mediator
+  - Memento
+  - Observer
+  - State
+  - Visitor
+  - Chain of Responsibility
 
 #### Run Examples
 
