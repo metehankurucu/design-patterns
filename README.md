@@ -13,7 +13,7 @@
   - Bridge
   - Composite
   - Decorator
-  - Facade
+  - [Facade](/facade)
   - Flyweight
   - Proxy
 - **Behavioral Patterns**
