@@ -10,7 +10,7 @@
   - Prototype
 - **Structural Patterns**
   - Adapter
-  - Bridge
+  - [Bridge](/bridge)
   - Composite
   - Decorator
   - [Facade](/facade)
@@ -31,6 +31,6 @@
 #### Run Examples
 
 ```bash
-npm start -- --pattern="pattern name"
-# e.g. --pattern="singleton" --pattern="template-method"
+pattern="pattern name" npm start
+# e.g. pattern="singleton" or pattern="template-method"
 ```
