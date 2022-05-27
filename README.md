@@ -9,7 +9,7 @@
   - Builder
   - Prototype
 - **Structural Patterns**
-  - Adapter
+  - [Adapter](/adapter)
   - [Bridge](/bridge)
   - Composite
   - Decorator
