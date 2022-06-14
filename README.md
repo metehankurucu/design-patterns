@@ -21,9 +21,9 @@
   - [Template Method](/template-method)
   - Command
   - Iterator
-  - Mediator
+  - [Mediator](/mediator)
   - Memento
-  - Observer
+  - [Observer](/observer)
   - State
   - Visitor
   - Chain of Responsibility
