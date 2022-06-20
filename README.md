@@ -11,7 +11,7 @@
 - **Structural Patterns**
   - [Adapter](/adapter)
   - [Bridge](/bridge)
-  - Composite
+  - [Composite](/composite/)
   - Decorator
   - [Facade](/facade)
   - Flyweight
