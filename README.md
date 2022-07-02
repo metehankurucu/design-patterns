@@ -4,7 +4,7 @@
 
 - **Creational Patterns**
   - [Singleton](/singleton)
-  - Factory Method
+  - [Factory Method](/factory-method/)
   - Abstract Factory
   - Builder
   - Prototype
