@@ -20,7 +20,7 @@
   - [Strategy](/strategy)
   - [Template Method](/template-method)
   - Command
-  - Iterator
+  - [Iterator](/iterator)
   - [Mediator](/mediator)
   - Memento
   - [Observer](/observer)
